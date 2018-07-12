@@ -130,7 +130,7 @@ ul {
 .content1 {
 	grid-column: 2 / 3;
 	grid-row: 2 / 3;
-	background-image: url("https://images.pexels.com/photos/1183021/pexels-photo-1183021.jpeg?cs=srgb&dl=high-landscape-majestic-1183021.jpg&fm=jpg");
+	background-image: url("parralaxpic.jpg");
 	height: 600px;
 	border: 2px solid white;
 	border-radius: 50px;
@@ -183,7 +183,7 @@ p {
 .projects1 {
 	width: 100%;
 	height: 100%;
-	background-image: url("https://images.pexels.com/photos/262918/pexels-photo-262918.jpeg?cs=srgb&dl=bowl-chairs-cooking-262918.jpg&fm=jpg");
+	background-image: url("food.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	transition: all .2s;
@@ -192,7 +192,7 @@ p {
 .projects2 {
 	width: 100%;
 	height: 100%;
-	background-image: url("https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?cs=srgb&dl=acoustic-band-bass-811838.jpg&fm=jpg");
+	background-image: url("band.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	transition: all .2s;
@@ -249,7 +249,7 @@ p {
 	.content1 {
 	grid-column: 2 / 3;
 	grid-row: 2 / 3;
-	background-image: url("https://images.pexels.com/photos/1183021/pexels-photo-1183021.jpeg?cs=srgb&dl=high-landscape-majestic-1183021.jpg&fm=jpg");
+	background-image: url("parralaxpic.jpg");
 	height: 300px;
 	border: 2px solid white;
 	border-radius: 50px;
